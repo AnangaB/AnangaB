@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ananga
 
-I am a fourth-year Computing Science and Applied Mathematics student at Simon Fraser University, with a passion for machine learning, data science, and web development. I have gained hands-on experience working on research projects and developing applications using modern frameworks and technologies.
+I am a fourth-year Computing Science and Applied Mathematics student at Simon Fraser University, with a passion for machine learning, data science, and web development.
 
 ## Languages and Tools
 
