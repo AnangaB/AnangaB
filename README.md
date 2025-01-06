@@ -3,10 +3,9 @@
 I am a fourth-year Computing Science and Applied Mathematics student at Simon Fraser University.
 
 
-## Languages and Tools
-
-![](https://skillicons.dev/icons?i=python,java,c,cpp,r)
-
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,expressjs,bootstrap,d3)
-
-![](https://skillicons.dev/icons?i=postgres,aws,docker)
+<h2 align="center"> Languages and Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,r,html,css,javascript,typescript,react,bootstrap,nodejs,expressjs,postgres,aws,docker,d3,pytorch,sklearn,&theme=dark&perline=11" />
+  </a>
+</p>
