@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ananga
+# Hey 👋, I'm Ananga
 
-I am a fourth-year Computing Science and Applied Mathematics student at Simon Fraser University.
+I’m a student at Simon Fraser University pursuing a double major in Computing Science and Applied Mathematics. I'm passionate about developing web applications, analyzing data, and coding practical solutions that enhance everyday life.
 
 
 <h2 align="center"> Languages and Tools</h2>
