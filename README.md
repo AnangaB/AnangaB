@@ -1,6 +1,6 @@
 # Hey 👋, I'm Ananga
 
-I’m a student at Simon Fraser University pursuing a double major in Computing Science and Applied Mathematics. I'm passionate about developing web applications, analyzing data, and coding practical solutions that enhance everyday life.
+I’m a student at Simon Fraser University pursuing a double major in Computing Science and Mathematics. I'm passionate about developing web applications, analyzing data, and coding practical solutions that enhance everyday life.
 
 
 <h2 align="center"> Languages and Tools</h2>
